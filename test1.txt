@@ -1,3 +1,4 @@
 Hello Amit 
 How are you
 where are you
+  git config --global user.email "you@example.com"
